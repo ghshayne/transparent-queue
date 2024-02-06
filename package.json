@@ -1,0 +1,20 @@
+{
+  "name": "transparent-work-queue",
+  "version": "1.0.0",
+  "description": "Work queue with multiple callback hooks",
+  "main": "workqueue.js",
+  "keywords": [
+    "promise",
+    "queue",
+    "asynchronous",
+    "callbacks"
+  ],
+  "author": "Ethan Shayne",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^8.1.3"
+  },
+  "scripts": {
+    "test": "mocha"
+  }
+}
