@@ -10,7 +10,7 @@
     "callbacks"
   ],
   "author": "Ethan Shayne",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "mocha": "^8.1.3"
   },
