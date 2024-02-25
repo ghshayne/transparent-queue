@@ -2,6 +2,7 @@
   "name": "transparent-work-queue",
   "version": "1.0.0",
   "description": "Work queue with multiple callback hooks",
+  "homepage": "https://github.com/ghshayne/transparent-queue",
   "main": "workqueue.js",
   "keywords": [
     "promise",
