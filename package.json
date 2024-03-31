@@ -13,7 +13,7 @@
   "author": "Ethan Shayne",
   "license": "MIT",
   "devDependencies": {
-    "mocha": "^8.1.3"
+    "mocha": "^10.4.0"
   },
   "scripts": {
     "test": "mocha"
