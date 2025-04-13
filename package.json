@@ -1,6 +1,6 @@
 {
-  "name": "transparent-work-queue",
-  "version": "1.0.0",
+  "name": "transparent-queue",
+  "version": "1.2",
   "description": "Work queue with multiple callback hooks",
   "homepage": "https://github.com/ghshayne/transparent-queue",
   "main": "workqueue.js",
@@ -13,7 +13,8 @@
   "author": "Ethan Shayne",
   "license": "MIT",
   "devDependencies": {
-    "mocha": "^10.4.0"
+    "braces": "^3.0.3",
+    "mocha": "^11.1.0"
   },
   "scripts": {
     "test": "mocha"
